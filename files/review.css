@@ -1,0 +1,74 @@
+*{
+    color: aliceblue;
+    background-color: gray;
+}
+h1{
+    padding: 3rem;
+    background-color: rgb(17, 72, 94);
+    border-radius: 5rem;
+    text-align: center;
+ 
+}
+
+.section{
+    background-color: rgb(17, 72, 94);
+    text-align: center;
+    width: 30%;
+    border-radius: 10rem;
+}
+#second{
+    margin-left: 30rem;
+    margin-top: -27rem;
+}
+#third{
+    float: right;
+    margin-top: -27rem;
+}
+
+#idimg{
+    width: 70%;
+   
+}
+.img{
+    border-radius: 20rem;
+}
+textarea{
+    border-radius: 1rem;
+}
+#review1{
+    background-color: rgb(80, 82, 82);
+    border: 5px solid rgb(0, 26, 65);
+}
+
+button{
+    background-color: rgb(17, 72, 94);
+    float: right;
+    padding: 4rem 15rem;
+    margin-right: 200px;
+    margin-top: -260px;
+    font-size: larger;
+    border-radius: 20%;
+}
+/* .section{
+    background-color: rgb(3, 25, 26);
+    padding: 10rem;
+    width: 30rem;
+    height: 20rem;
+    
+}
+
+*{
+    
+    background-color: aqua;
+  
+    
+}
+.img{
+    width:50%;
+    
+
+   
+}
+#Teacher1{
+    float: left;
+} */
